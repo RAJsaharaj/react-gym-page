@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-gym-page/static/css/main.8b58b3cd.chunk.css",
+    "main.js": "/react-gym-page/static/js/main.3cc818f6.chunk.js",
+    "main.js.map": "/react-gym-page/static/js/main.3cc818f6.chunk.js.map",
+    "runtime-main.js": "/react-gym-page/static/js/runtime-main.1562e5ca.js",
+    "runtime-main.js.map": "/react-gym-page/static/js/runtime-main.1562e5ca.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/react-gym-page/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.bd4552d2.chunk.js": "/react-gym-page/static/js/2.bd4552d2.chunk.js",
+    "static/js/2.bd4552d2.chunk.js.map": "/react-gym-page/static/js/2.bd4552d2.chunk.js.map",
+    "index.html": "/react-gym-page/index.html",
+    "precache-manifest.57e2dc25d8aa24dccb856bf840de83a8.js": "/react-gym-page/precache-manifest.57e2dc25d8aa24dccb856bf840de83a8.js",
+    "service-worker.js": "/react-gym-page/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/react-gym-page/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.8b58b3cd.chunk.css.map": "/react-gym-page/static/css/main.8b58b3cd.chunk.css.map",
+    "static/js/2.bd4552d2.chunk.js.LICENSE.txt": "/react-gym-page/static/js/2.bd4552d2.chunk.js.LICENSE.txt",
+    "static/media/body building.jpg": "/react-gym-page/static/media/body building.e37644f8.jpg",
+    "static/media/cardio training.jpg": "/react-gym-page/static/media/cardio training.2266d98f.jpg",
+    "static/media/freestyle training.jpg": "/react-gym-page/static/media/freestyle training.7ff966f6.jpg",
+    "static/media/group workout.jpg": "/react-gym-page/static/media/group workout.b0f357f6.jpg",
+    "static/media/gym1.jpg": "/react-gym-page/static/media/gym1.68e70561.jpg",
+    "static/media/gym2.jpg": "/react-gym-page/static/media/gym2.c689ee76.jpg",
+    "static/media/heavy weight classes.jpg": "/react-gym-page/static/media/heavy weight classes.fb8fc1b4.jpg",
+    "static/media/img2.svg": "/react-gym-page/static/media/img2.e981619f.svg",
+    "static/media/s1.jpg": "/react-gym-page/static/media/s1.1192a86d.jpg",
+    "static/media/strength training.jpg": "/react-gym-page/static/media/strength training.13716b8f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1562e5ca.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.bd4552d2.chunk.js",
+    "static/css/main.8b58b3cd.chunk.css",
+    "static/js/main.3cc818f6.chunk.js"
+  ]
+}
